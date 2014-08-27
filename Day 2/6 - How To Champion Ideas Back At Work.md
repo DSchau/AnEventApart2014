@@ -39,6 +39,22 @@ All the famous writers, politicians, engineers, etc. of the day hated it (while 
 
  * > ... with all our strength, with all our indignation in the name of slighted French taste...
 
+### How to convince people
+
+Trying to convince my boss to do X, Y, Z... how? 
+
+People who have power are often the most resistant to change. 
+
+#### How to convince your boss
+
+* Be awesome at your job
+* Get support from an influental coworker
+* Plan a trial, including how to evaluate
+* Pitch it
+* Do it **well**
+* Repeat
+
+
 
 
 
